@@ -1,0 +1,107 @@
+{
+  "product": [
+   {
+        "id":1,
+        "title":" Men T-Shirt",
+        "price":5,
+        "img":"Img/men.jpeg",
+        "des":"Sonata Champagne Dial Analog Watch for Women",
+        "qunty":1
+    
+    },
+     {
+        "id":2,
+        "title":"Titan Watch",
+        "price":30,
+        "img":"Img/watch.jpeg",
+         "des":"Sonata Champagne Dial Analog Watch for Women",
+           "qunty":1
+    
+    }, {
+        "id":3,
+        "title":"School Bag",
+        "price":10,
+        "img":"Img/bag.jpeg",
+         "des":"Sonata Champagne Dial Analog Watch for Women",
+           "qunty":1
+    
+    },
+     {
+        "id":4,
+        "title":"Women Ring",
+        "price":2,
+        "img":"Img/ring.jpeg",
+         "des":"Sonata Champagne Dial Analog Watch for Women",
+           "qunty":1
+    
+    }, {
+        "id":5,
+        "title":"Bag",
+        "price":7,
+        "img":"Img/bag3.jpeg",
+         "des":"Sonata Champagne Dial Analog Watch for Women",
+           "qunty":1
+    
+    },
+     {
+        "id":6,
+        "title":"Women Dress",
+        "price":7,
+        "img":"Img/women.jpeg",
+         "des":"Sonata Champagne Dial Analog Watch for Women",
+           "qunty":1
+    
+    },
+     {
+        "id":7,
+        "title":"Women Watch",
+        "price":3,
+        "img":"Img/w-watch.jpeg",
+         "des":"Sonata Champagne Dial Analog Watch for Women",
+           "qunty":1
+    
+    }, {
+        "id":8,
+        "title":"Women Dress",
+        "price":7,
+        "img":"Img/women2.jpeg",
+         "des":"Sonata Champagne Dial Analog Watch for Women",
+           "qunty":1
+    
+    }, {
+        "id":9,
+        "title":"Wireless Bluetooth HeadPhones",
+        "price":7,
+        "img":"Img/headphone.jpeg",
+         "des":"Sonata Champagne Dial Analog Watch for Women",
+         "qunty":1
+    
+    }, {
+        "id":10,
+        "title":"SONY Speaker",
+        "price":5,
+        "img":"Img/speaker.jpeg",
+        "des":"Sonata Champagne Dial Analog Watch for Women",
+          "qunty":1
+    
+    }
+  ],
+   "user-details": [
+   {
+        "id":1,
+        "name":" Men T-Shirt",
+        "email":5,
+        "country":"Img/men.jpeg",
+        "state":"Sonata Champagne Dial Analog Watch for Women",
+        "city":1,
+        "pin":361005,
+        "cname":"isha",
+        "cnumber":20000000,
+        "date":"12-2-23",
+        "cvv":132
+
+    
+    }
+  ]
+ 
+}
